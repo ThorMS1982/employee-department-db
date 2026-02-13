@@ -1,4 +1,4 @@
-Zbudowałem dwutabelową relacyjną bazę danych, pracownicy i działy. Program utowrzy bazę, uzupełni ja danymi, wygeneruje raporty . wykresy.
+Zbudowałem dwutabelową relacyjną bazę danych, pracownicy i działy. Program utworzy bazę, uzupełni ja danymi, wygeneruje raporty i wykresy.
 
 1. Uruchamiamy plik database.py (Tworzenie struktury i relacji, powstaje plik company.db)
 2. Uruchamimy plik seed_data.py (Uzupełniam obie tabele przykładowymi rekordami)
